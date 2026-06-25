@@ -157,10 +157,14 @@ Projects exploring human emotion, cognition, facial expression understanding, an
 ---
 
 <div align="center">
-
+  
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/zerolagheart/zerolagheart/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zerolagheart/zerolagheart/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerolagheart/zerolagheart/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zerolagheart/zerolagheart/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
