@@ -85,8 +85,8 @@ Projects exploring human emotion, cognition, facial expression understanding, an
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/titikshayadav/)
-- 🌐 Instagram: [Add your instagram here](https://www.instagram.com/zerolagheart?igsh=MW5mNjlqdDE5MHVneQ==)
+- 💼 LinkedIn: [Titiksha](https://www.linkedin.com/in/titikshayadav/)
+- 🌐 Instagram: [zerolagheart](https://www.instagram.com/zerolagheart?igsh=MW5mNjlqdDE5MHVneQ==)
 - 📫 Email: titikshayadav0@gmail.com
 
 ---
