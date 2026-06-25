@@ -146,7 +146,7 @@ Projects exploring human emotion, cognition, facial expression understanding, an
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=93C5FD" />
 </a>
 <a href="https://www.instagram.com/zerolagheart?igsh=MW5mNjlqdDE5MHVneQ==">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
 </a>
 <a href="mailto:titikshayadav0@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
