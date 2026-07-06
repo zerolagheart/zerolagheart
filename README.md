@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hi, I'm Titiksha Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# ✨ Hi, I'm Titiksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### UI/UX Designer • HCI Researcher • ML Explorer • CMO @ MakeMyMock
+### UI/UX Designer • HCI Researcher • CMO @ MakeMyMock
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+human-centered+digital+experiences;Designing+at+the+intersection+of+emotion,+learning,+and+technology;Exploring+HCI,+UX,+ML,+and+interactive+systems;Turning+ideas+into+immersive+products+%F0%9F%92%9C" alt="Typing SVG" />
 
