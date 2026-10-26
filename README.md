@@ -28,6 +28,7 @@
 - 🧠 Interested in **Human-Computer Interaction, Human Cognition, Digital Wellbeing, and AI in UX**
 - 📊 Exploring **Machine Learning, Sentiment Analysis, Emotion-aware Systems, and Data-driven Interfaces**
 - 🚀 Currently balancing **design, research, product-building, and experimentation**
+- 📚 Fluent in 3 languages (Marathi, Hindi, and English), Intermediate in Korean. Currently Learning Arabic
 
 ---
 
