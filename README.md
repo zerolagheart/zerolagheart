@@ -102,15 +102,6 @@
 
 <div align="center">
 
-## 📈 GitHub Analytics
-
-</div>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zerolagheart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerolagheart&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
-</p>
-
 ---
 
 <div align="center">
