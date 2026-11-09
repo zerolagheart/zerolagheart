@@ -102,10 +102,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 ## 🌟 Featured Work
 
 </div>
